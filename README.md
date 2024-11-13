@@ -20,4 +20,7 @@
 1. Sergio Ramos
 1. Raúl González Blanco
 1. Carlo Ancelotti
-1. Mejor 11 historico
+1. Federico Valverde
+1. Jude Bellingham
+1. Vinicius Jr.
+1. Courtois, Keylor Navas y Casillas
