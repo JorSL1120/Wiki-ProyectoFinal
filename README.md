@@ -3,7 +3,6 @@
 1. Cristiano Ronaldo
 1. La BBC
 1. La Decimocuarta
-1. Santiago Bernabeu (persona)
 1. Alfredo Di Stefano
 1. Mexicanos en el Real Madrid
 1. Las 3 Champions consecutivas
