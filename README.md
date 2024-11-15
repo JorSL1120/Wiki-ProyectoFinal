@@ -8,7 +8,6 @@
 1. Las 3 Champions consecutivas
 1. Zinedine Zidane
 1. Luis Figo
-1. Florentino Pérez
 1. Real Madrid vs Barcelona
 1. El número 7
 1. La quinta del Buitre
