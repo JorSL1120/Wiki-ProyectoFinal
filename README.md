@@ -1,9 +1,10 @@
 # 20 blogs
 
-1. Cristiano Ronaldo
-1. La BBC
+1. Cristiano Ronaldo --
+1. La BBC --
+1. Alfredo Di Stefano --
+1. Courtois, Keylor Navas y Casillas --
 1. La Decimocuarta
-1. Alfredo Di Stefano
 1. Mexicanos en el Real Madrid
 1. Las 3 Champions consecutivas
 1. Zinedine Zidane
@@ -19,4 +20,3 @@
 1. Federico Valverde
 1. Jude Bellingham
 1. Vinicius Jr.
-1. Courtois, Keylor Navas y Casillas
