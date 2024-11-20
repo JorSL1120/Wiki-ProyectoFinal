@@ -18,5 +18,5 @@
 1. Sergio Ramos
 1. Raúl González Blanco
 1. Federico Valverde --
-1. Jude Bellingham
+1. Jude Bellingham --
 1. Vinicius Jr.
