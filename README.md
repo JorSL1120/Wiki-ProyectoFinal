@@ -14,7 +14,7 @@
 1. Los galácticos
 1. La Fábrica
 1. Máximos goleadores
-1. La Decima
+1. La Decima --
 1. Sergio Ramos
 1. Raúl González Blanco
 1. Federico Valverde --
