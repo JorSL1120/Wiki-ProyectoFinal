@@ -19,4 +19,4 @@
 1. Raúl González Blanco --
 1. Federico Valverde --
 1. Jude Bellingham --
-1. Vinicius Jr.
+1. Vinicius Jr. --
