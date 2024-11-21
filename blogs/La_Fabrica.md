@@ -1,6 +1,8 @@
 # La Fábrica
 La cantera del Real Madrid, conocida como "La Fábrica", es una de las canteras más prestigiosas de todo el mundo. Desde su creación, ha formado a grandes futbolistas que han brillado en el club o en el futbol mundial. Este sistema de formación de jugadores ha sido vital en la identidad y éxito del club blanco en los últimos años, ya que desde un inicio fomentan esa filosofía o como los madridistas lo llaman, ese ADN del Real Madrid que te enseña a nunca rendirte, esa sed de victorias de siempre ser los mejores.
 
+![La Fábrica]()
+
 ## Origen
 Desde los inicios el Madrid ha apostado por tener jóvenes promesas dentro de sus filas. Con las instalaciones que reciben el nombre de "Valdebebas", el club proporciona una formación integra a sus jugadores jóvenes. No solo se enseña el desarrollo táctico y técnico, sino que también valores como la responsabilidad, la disciplina y todo lo que conlleva ser un jugador del Real Madrid.
 

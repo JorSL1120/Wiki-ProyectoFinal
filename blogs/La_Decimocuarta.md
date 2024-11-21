@@ -3,6 +3,8 @@ Después de unos años de sufrimiento para el Real Madrid tras la salida de Cris
 
 Esta Champions fue un comienzo tras la pandemia de COVID-19 no se había tenido gente en los estadios, hasta que inicio esta temporada. El Real Madrid había iniciado bien la temporada en la Liga española, pero lo que ellos necesitaban era hacer un buen papel en al competición europea.
 
+![Trofeo](https://www.realmadrid.com/landings/assets/images/content/decimocuarta-copa-europa/banner.jpg)
+
 Es una de las Champions más recordadas por el madridismo ya que durante toda la competencia el Real Madrid sufrió, pero el equipo supo poner resistencia y superar esas adversidades para llegar a la conquista de la misma. A esta Champions a parte de "La Decimocuarta" se le llama "La Champions de las remontadas".
 
 ## El camino a la Decimocuarta
@@ -38,6 +40,8 @@ Para el partido de vuelta sucedió algo inesperado, el Chelsea se iba a adelanta
 ### Semifinal
 No le podía tocar un peor rival al Real Madrid, se enfrentaría contra el Manchester City, el partido estuvo muy reñido, terminaría con un marcador de 4-3 con la victoria para los de Manchester, pero dejando al Real Madrid vivo para que en el partido de vuelta hicieran algo. Lo que más podemos destacar del partido, es que el Manchester City no supo cómo controlar la ofensiva de los merengues, los cuales con muy poco ataque lograron marcar esos 3 goles que los mantenían con vida para la vuelta.
 
+![Festejo Rodrygo](https://imagenes.elpais.com/resizer/v2/TQTDI6K77Z2UH27NUEKAVVTWMY.jpg?auth=ea1f594a1e3c043a498d3434f9408653a58f0b3292f87b34ec906a31050ac1f5&width=1960&height=1470&smart=true)
+
 Llegaba el partido de vuelta en el Santiago Bernabéu, igual que en las fases anteriores. Lo que paso aquí es algo nunca antes visto, lo que paso esa noche en la ciudad de Madrid simplemente es inexplicable. El partido estaba siendo claramente dominado por los ingleses, tanto así que en el minuto 73 llegaría un gol de Mahrez que se pensaba iba a sentenciar la derrota del club blanco, con un marcador de 5-3 a favor de los ingles se veía imposible que el Real Madrid se pudiera colar a la final de la Champions.
 
 Pero esas noches de Champions en el Bernabéu son simplemente mágicas, llegaba el minuto 90 del encuentro, el Real Madrid llevaba unos minutos atacando mucho, y llego, tras un centro de Camavinga el balón le caía a Benzema dentro del área, el cual para la sorpresa de todos daría un pase para la llegada de Rodrygo, marcando un gol, para que el marcador global quedara 5-4. Pero si eso no era suficiente, tan solo un minuto después el mismo Rodrygo marcaria otro gol elevándose sobre los defensas del City y marcando el gol del empate global, 5-5.
@@ -46,5 +50,7 @@ Nadie podía creer lo que estaba sucediendo, el Real Madrid otra vez lo había v
 
 ## La final
 Llegaba la ansiada final, otra vez como en el 2018, Liverpool vs Real Madrid, los ingleses venían siendo el mejor equipo del torneo, siendo superior a todos sus rivales, mientras que el Real Madrid había sufrido en todas sus etapas de la competencia. El partido pintaba para que el Liverpool se consagrara como campeón, estaba siendo muy superior al Real Madrid, pero fue gracias a la impresionante actuación de Thibaut Courtois que no dejo que el Liverpool marcara gol, haciendo salvadas dignas del mejor portero del mundo, para que tras un tiro de Fede Valverde que se iba desviado y caería en los pies de Vinicius Jr., llegaba el gol merengue que significaría la conquista de la ansiada orejona.
+
+![Gol Vini](https://cdn2.mediotiempo.com/uploads/media/2022/05/28/gol-vini-real-madrid-championsleague.jpg)
 
 Esta Champions a comparación de las anteriores que el Madrid había ganado se sufrió, pero gracias a ese ADN que tiene el Real Madrid que te enseña a nunca rendirse y siempre dar lo mejor hasta que el árbitro dice que se acaba, fue lo que llevo a este equipo a levantar de nuevo una UEFA Champions League, después de unos años de pesadilla para ellos.

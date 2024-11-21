@@ -1,6 +1,8 @@
 # La Décima
 La conquista de la décima UEFA Champions League para el Real Madrid significo un antes y un después dentro del club y de la competencia en general. El Real Madrid conquisto "La Decima" como se le llama a este trofeo dentro del madridismo, en la temporada 2013-2014, fue un hito histórico que marco un renacer para el club blanco dentro del escenario europeo e internacional. Esta ansiada victoria puso fin a 12 largos años de espera, reafirmando al Real Madrid como el equipo más laureado de la competencia.
 
+![Trofeo](https://publish-p47754-e237306.adobeaemcloud.com/adobe/dynamicmedia/deliver/dm-aid--b1e09360-248c-4cee-ba49-959ac11a042f/_330769247963.app.webp?preferwebp=true)
+
 ## El camino a la Décima
 El Real Madrid dirigido por Carlo Ancelotti, demostró un gran desempeño desde el inicio de la fase de grupos quedando invictos con 5 victorias y un empate. El club blanco tuvo unas actuaciones muy dominantes sobre sus rivales, esto gracias a su solidez defensiva y a la BBC que controlaba el ataque.
 Cristiano Ronaldo sin duda fue la figura del Real Madrid y de la competencia, marcando un total de 17 goles (record de goles en una temporada de la competencia), record que hasta el día de hoy nadie ha logrado superar. Otros de los jugadores destacados fueron Gareth Bale, Sergio Ramos y Ángel Di María, contribuyendo en momentos clave de los partidos.
@@ -39,6 +41,8 @@ En el partido de vuelta el Real Madrid mostro de nuevo esa versión que los afic
 Llegaba el día esperado, el 24 de mayo del 2014 el Estadio da Luz en Lisboa, fue testigo de un enfrentamiento histórico entre 2 clubes españoles, pero para hacerlo aún más especial, 2 clubes de la ciudad de Madrid. El Real Madrid se enfrentaba al Atlético de Madrid, el Atlético venia de una gran temporada, ganaron la liga española bajo el liderato de su entrenador Diego "El Cholo" Simeone.
 
 El partido comenzó mal para los merengues, Diego Godin adelantaba al Atlético tras un error de Iker Casillas. Tras el gol, los colchoneros se dedicaron a defender el resultado, esperando a que el Real Madrid no les pudiera meter gol y así coronarse, su victoria estaba muy cerca, el club merengue insistía mucho en el ataque, llegando el minuto 90 el árbitro avisaba que se aumentaban 4 minutos más. Pero llego el minuto 93 era tiro de esquina a favor del Real Madrid, Luka Modric cobraba el tiro, el balón fue directo a la cabeza de un Sergio Ramos que se elevó por los aires para cabecear el balón y meter el tanto del empate.
+
+![Gol Ramos](https://cloudfront-eu-central-1.images.arcpublishing.com/prisaradio/BAW6KJ3EVVOCBJ572WJV2ZXEVE.jpg)
 
 Tras el gol de Ramos el partido se iba a tiempos extra, pero al llegar aquí los colchoneros no pudieron aguantar el ataque merengue, los cuales terminarían metiendo 3 goles más, con tantos de Gareth Bale, Marcelo y Cristiano Ronaldo, el cual marcaba el gol número 17 imponiendo el record de la competencia. 
 

@@ -4,7 +4,7 @@ Para muchos es considerado el mejor tridente que ha visto el fútbol, integrada 
 ## La llegada de Gareth Bale
 Procedente del Tottenham Hotspur, Bale llego al club blanco por una cifra record de 100 millones de euros, superando el record impuesto por Cristiano Ronaldo que le costó 94 millones de euros al Real Madrid. Siendo el fichaje más caro de la historia, la presión para el joven galés era alta, aunque casi al instante su talento en el campo se hizo evidente ante los ojos de todo el mundo.
 
-![Presentación Jude]()
+![Bale](https://assets.goal.com/images/v3/bltdf4ce4ae43638886/c296197fee670843c46710bb06e126b1c2f4a4da.jpg?auto=webp&format=pjpg&width=3840&quality=60)
 
 Gracias a su velocidad descomunal, su gran potencia física, su habilidad con el balón en los pies y su facilidad de marcar goles, ayudo al Real Madrid a ser una amenaza mayor en el ataque con la ayuda de Cristiano y Benzema.
 
@@ -12,6 +12,8 @@ El Expreso de Gales, apodado así por su gran velocidad y su país de origen se 
 
 ## Karim Benzema y su papel
 Benzema ya era parte del Real Madrid cuando Bale llegó, el futbolista francés llego al club en el año 2009 junto con Cristiano Ronaldo. Karim desempeño un papel clave jugando principalmente por el centro del tridente, a pesar que en esa época no fue tan mediático como Cristiano y Bale, siempre buscaba la forma de aportar su calidad para ayudar al equipo. El delantero galo siempre fue conocido por su inteligencia al jugar, su habilidad con el balón y para asociarse con sus compañeros, aunque muchas veces fue criticado por su falta de gol al ser el centro delantero del equipo, esto no lo detuvo y aportaba mucho al equipo con buen juego, dando asistencias y metiendo algunos goles.
+
+![Benzema](https://e00-marca.uecdn.es/assets/multimedia/imagenes/2017/02/16/14872566515718.jpg)
 
 Mientras que Bale y Cristiano fueron los encargados mayormente de la anotación de goles, Benzema era un jugador fundamental para la creación de jugadas y dar asistencias a sus compañeros, principalmente a Cristiano Ronaldo, Karim también aportaba con goles en momentos clave.
 
@@ -22,6 +24,8 @@ Cristiano Ronaldo considerado uno de los mejores jugadores de todos los tiempos,
 
 Con Cristiano todo el tridente se complementaba, mientras que Karim se dedicaba a la creación de juego, Bale con su velocidad le daba esa explosividad que el ataque necesitaba, Cristiano Ronaldo era la pieza faltante, una máquina de hacer goles, que sabias con seguridad que siempre iba a estar en el lugar correcto para hacerlo.
 
+![Cristiano](https://img.rtve.es/imagenes/cristiano-ronaldo-a-32-goles-hacer-historia-real-madrid/1425401996230.jpg)
+
 Cristiano tenía una capacidad inigualable de aparecer cuando el equipo más lo necesitaba, siendo un líder natural tanto dentro del campo, como fuera de él.
 
 Su papel en este tridente iba más allá de marcar goles, también generaba muchas ocasiones para asociarse con sus compañeros y ellos marcaran. La capacidad que tenia de leer el juego lo ayudo mucho en saber cuándo tenía que cumplir ese papel de goleador o el de jugar para sus compañeros.
@@ -30,6 +34,8 @@ Su papel en este tridente iba más allá de marcar goles, también generaba much
 Este trio de jugadores dejó una huella dentro de la historia del Real Madrid. Uno de sus primeros logros fue la conquista de la UEFA Champions League en la temporada 2013-2014, la famosa "Decima" llego cuando el tridente ni un año tenía de haberse formado. Este logro tiene un gran significado para el club, ya que desde la temporada 2001-2002 no ganaban dicho torneo, probablemente esto fue un antes y un después de este tridente, ya que después vendría la conquista de 3 Champions seguidas, "La Undécima", "La Duodécima" y "La Decimotercera".
 
 La temporada más gloriosa de la BBC fue la 2016-2017, con la conquista de "La Duodécima" se le sumo la conquista del torneo de liga español. En esta temporada la BBC mostro su mejor nivel, por lo que con este tridente el Real Madrid se volvió uno de los equipos más temidos de todo el mundo. Esa gran combinación de cualidades de sus 3 miembros hizo que el ataque del club blanco fuera extremadamente difícil de parar.
+
+![Juntos](https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/06/06/16860559314687.jpg)
 
 ## El final
 Este glorioso tridente que enamoro con su fútbol a más de uno llego a su fin tras la salida de su líder Cristiano Ronaldo. Después de la conquista de "La Duodécima" Cristiano anuncio su despedida del club, dándole fin a la BBC, a pesar de que Bale y Benzema continuaron en el club nada volvió a ser lo mismo, llegaron nuevos jugadores y el club entro en una crisis post Cristiano, esto provocó la salida de Bale del club merengue y Benzema se convirtió en ese goleador que muchos le pedían y le criticaban por no serlo.
