@@ -1,6 +1,8 @@
 # Alfredo Di Stéfano
 Una de las leyendas más grandes del club blanco y de la historia del fútbol, jugó un papel muy importante en la evolución del Real Madrid de un club normal a uno de nivel mundial. Nació en Buenos Aires en el año de 1926, comenzó su carrera profesional en el Club Atlético River Plate. Su traspaso al club blanco en 1953 marco el inicio de la época dorada del Real Madrid, pero también lo fue para el futbolista argentino.
 
+![Alfredo Di Stéfano](https://assets.goal.com/images/v3/bltcd5f21b726d70592/bcb265712bddeb127fa14873bd39e485ea818668.jpg?auto=webp&format=pjpg&width=3840&quality=60)
+
 ## La llegada al Real Madrid
 Su fichaje por el Real Madrid estuvo lleno de polémica, en el año 1953 tanto el Real Madrid como el Barcelona querían adquirir los servicios de Di Stéfano, esto desato una gran controversia en el futbol español, ya que los 2 equipos más grandes de España y rivales por excelencia se estaban peleando por el mismo jugador.
 
@@ -19,6 +21,8 @@ La frustración que tenía el Barcelona solo intensifico la rivalidad entre ambo
 
 ## Las 5 Copas de Europa consecutivas
 El mayor logro en la carrera de Alfredo fue conseguir esas 5 Copas de Europa consecutivas, este es un logro histórico, ya que ningún otro club ha podido igual esta racha que logro esta generación del Real Madrid en la máxima competición europea. Di Stéfano fue crucial en cada una de las finales, pero podemos destacar la final de 1960 contra el Eintracht Frankfurt, donde el club merengue supero al equipo alemán con un marcador de 7-3, en ese partido Alfredo marcó 3 goles.
+
+![Alfredo Di Stéfano](https://cdn.milenio.com/uploads/media/2020/04/11/alfredo-di-stefano-real-madrid.jpg)
 
 ## Su despedida
 Alfredo dejo al Real Madrid después de pertenecer al club por 11 años, en los cuales jugó 396 partidos y anotó 308 goles, convirtiéndose en el máximo goleador histórico del Real Madrid, manteniéndose así por muchos años.
