@@ -8,6 +8,8 @@ José Ramón Sauto fue el primer mexicano en llegar a ser futbolista del Real Ma
 
 Sauto se desarrollaba como mediocampista, el cual llamo la atención del Real Madrid gracias a su visión de juego y su técnica. Se incorporó a las filas merengues en 1940. Sauto se mantuvo en el club por 6 temporadas jugando 70 partidos oficiales, a pesar de nunca ser un goleador ni una figura que destacara sobre los demás, fue un jugador constante contribuyo al Real Madrid un una época complicada, la cual es recordada por los efectos de la Guerra Civil española y la Segunda Guerra Mundial.
 
+![Sauto]()
+
 Mientras estuvo en el Real Madrid José Ramón no logro ganar ningún título, pero es recordado en la historia como el primer mexicano que vistió los colores merengues. En 1946 anunció su retiro del futbol, por lo tanto en este año fue su salida del club, podemos destacar que es de los pioneros mexicanos de jugar en Europa.
 
 ## Hugo Sánchez
@@ -21,6 +23,8 @@ Tras su llegada al Real Madrid, Hugo se consolido como un delantero letal, es es
 
 Hugol fue el máximo goleador de la liga española por 5 temporadas consecutivas, 4 de esas 5 fue como jugador del Real Madrid. Una de sus mejores temporadas fue la de 1989-1990, en la cual anoto la impresionante cifra de 38 goles en la liga, estos goles igualaron un record que se mantuvo vigente durante muchos años.
 
+![Hugol]()
+
 La historia de Hugo en el Real Madrid no solo se trata de goles, también gano títulos importantes con el conjunto blanco. Dentro de su palmarés como jugador merengue se encuentran 5 ligas españolas, las cuales gano consecutivamente, 3 Supercopas de España, 1 Copa del rey y 1 Copa de la UEFA.
 
 A parte de los títulos colectivos, en el año de 1990, Hugo ganó la Bota de Oro, premio que recibe el máximo goleador de todo el continente europeo. La huella que dejo Hugo en el club fue tan grande que aún es recordado siendo un sinónimo claro de goles.
@@ -33,5 +37,7 @@ Los rumores dicen que el Real Madrid estaba buscando un delantero de calidad per
 A pesar de que Javier tuvo un paso muy breve por el club dejo un buen sabor de boca. Chicharito no era titular, la mayoría de los partidos en los que entro a jugar fue de cambio. Jugó un total de 33 partidos, en los cuales marco 9 goles. Tuvo momentos muy destacados y significativos, como ese gol que le marcó al Atlético de Madrid en un partido de vuelta de los cuartos de final de la UEFA Champions League con asistencia de Cristiano Ronaldo, el cual aseguró el pase del Real Madrid a las semifinales, esto lo llevo a ganarse el cariño de los aficionados a pesar de su corta estancia.
 
 Como jugador del Real Madrid el máximo goleador de la selección mexicana consiguió un trofeo, fue el Mundial de clubes del 2014.
+
+![Asistencia cr7]()
 
 A pesar de que Chicharito no tuvo malas actuaciones en el club, el Real Madrid decidió no ejercer la opción a compra, por lo que al finalizar la temporada Javier dejo de ser jugador del Real Madrid y continuo su carrera por otros clubes europeos.

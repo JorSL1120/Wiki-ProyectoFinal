@@ -13,12 +13,16 @@ Desde el primer partido nos pudimos dar cuenta de que Cristiano estaba hecho par
 
 Los números de Cristiano son impresionantes, el futbolista portugués estuvo 9 temporadas en el Real Madrid, en las cuales jugó 438 partidos oficiales con el club, en los cuales marcó 450 goles, promediando 1.03 goles por partido. Este porcentaje es algo prácticamente imposible de igual, lo que nos demuestra que estamos frente al mejor delantero no solo del club, sino de la historia.
 
+![Chilena cr7](https://e00-mx-marca.uecdn.es/mx/assets/multimedia/imagenes/2023/08/09/16915591469321.jpg)
+
 Cristiano se convirtió en el máximo goleador del Real Madrid el 17 de octubre del 2015, ese día supero los 323 goles que tenía Raúl González Blanco. Lo más impresionante de este suceso no fue que llegara a esa cantidad de goles, sino el tiempo en el que lo hizo, prácticamente tenía 6 años y unos cuantos meses siendo jugador del conjunto merengue. Esto muestra su asombroso nivel que alcanzo gracias a su regularidad y olfato goleador que posee.
 
 ### Karim Benzema
 Karim Benzema, el delantero francés llego al Real Madrid en el año 2009. Al principio muchos de los aficionados no les agrado su fichaje, ya que en sus primeros años no brillo como se esperaba, esto probablemente se debió a que convivio con Cristiano Ronaldo en su mejor momento. Tras la salida de Cristiano en el año 2018, pudimos ver el mejor momento de Karim en toda su carrera, el cual le valió para conseguir un balón de oro como mejor jugador del mundo.
 
 Karim metió 354 goles durante las 14 temporadas que fue jugador del Real Madrid, con esos números promedio 0.55 goles por partido. A pesar de que no llego a ser nunca el máximo goleador, ya que no supero a Cristiano Ronaldo, Karim es de los mejores goleadores que ha tenido el club, llegando a adueñarse el segundo puesto.
+
+![Benzema](https://fotografias.antena3.com/clipping/cmsimages02/2022/10/17/9D16AE37-2D46-4897-B4DC-3A6062075098/karim-benzema-emocionado-ganar-balon-oro-2022_104.jpg?crop=2953,2953,x213,y0&width=1200&height=1200&optimize=low&format=webply)
 
 ### Raúl González Blanco
 Raúl González Blanco fue por mucho tiempo el máximo goleador de la historia del Real Madrid, hasta que llego Cristiano Ronaldo a quitarle ese título en el año 2015. Raúl fue la representación en persona del Real Madrid por más de una década, es un emblema de la cantera y del club en general. Esto se lo gano gracias a su dedicación, esfuerzo y amor por el club.
@@ -29,6 +33,8 @@ Raúl se convirtió en el máximo goleador del Real Madrid el 28 de enero del 20
 
 Fue un jugador muy importante en la historia del club, con una impresionante longevidad y lealtad hacia el club. Esto lo llevo a convertirse en un icono del madridismo.
 
+![Raúl](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Raul_Gonzalez_10mar2007.jpg/220px-Raul_Gonzalez_10mar2007.jpg)
+
 ### Alfredo Di Stéfano
 Alfredo Di Stéfano, mejor conocido como "La Saeta Rubia", es considerado el jugador con lo que todo inicio, a partir de su llega al club en el año 1953 el Real Madrid se convirtió en ese club dominante como lo conocemos en la actualidad.
 
@@ -36,7 +42,11 @@ Se convirtió en el máximo goleador del club durante los años 50, marcando un 
 
 Alfredo supero la marca de 125 goles que había dejado Manuel Fernández Pahiño, quien era el máximo goleador del club en esa época (actualmente se encuentra en el lugar 14).
 
+![Di Stéfano](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR99L0Maqu74GV9ABhsRN1k0RdReEbO40YHZw&s)
+
 ### Carlos Santillana
 Carlos Santillana nunca logro obtener el título como máximo goleador de la historia, ya que nunca logro alcanzar los goles de Alfredo Di Stéfano, que en esa época era el máximo goleador. A pesar de eso Santillana es una de las más grandes leyendas del club, destacaba principalmente por la gran capacidad que tenía de marcar goles de cabeza, esto a pesar de que media apenas 1.75m.
 
 En los 645 partidos que jugó, marco un total de 290 goles. Estos números promedian 0.45 goles por partido.
+
+![Santillana](https://tmssl.akamaized.net//images/foto/galerie/santillana-real-madrid-1987-1660206992-89956.jpg?lm=1660207032)

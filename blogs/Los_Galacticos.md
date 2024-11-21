@@ -1,7 +1,7 @@
 # La era galáctica
 El Real Madrid a lo largo de su historia ha tenido jugadores muy buenos en sus filas, jugadores top mundiales, siendo lo mejor de lo mejor. Aquí es donde llegan Los Galácticos, un proyecto muy ambicioso de juntar a los mejores futbolistas en un solo equipo. El presidente del Real Madrid Florentino Pérez se propuso lograr este proyecto, esta era galáctica duro únicamente 6 años, iniciando en el año 2000 con el fichaje de Luis Figo.
 
-![Galacticos]()
+![Galacticos](https://i0.wp.com/somosinvictos.com/wp-content/uploads/2015/01/Raul.jpg?fit=770%2C380&ssl=1)
 
 Durante este proceso el Real Madrid junto a algunos de los mejores jugadores de ese momento, lo cual lleno al equipo de mucho talento individual y un marketing global que le traería muchos beneficios económicos al club.
 
@@ -16,12 +16,16 @@ Proveniente del Barcelona, Luis Figo marcó el inicio de esta era galáctica. Su
 
 El portugués se destacaba por su habilidad para desbordar por la banda derecha, tenía una gran capacidad para regatear en poco espacio, sus centros eran muy precisos, algo muy importante para un jugador de banda. Todas estas características lo mantenían como uno de los mejores jugadores del momento.
 
+![Figo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8qaEhFZgibiOqO7IUTjmYknieGfQMmYJWkQ&s)
+
 ### Zinedine Zidane
 Zidane llegaría al Real Madrid en el año 2001 proveniente de la Juventus, el fichaje se dio por una cifra record de 77 millones de euros. Llego siendo uno de los mejores mediocampistas del momento y considerado de los mejores de la historia.
 
 Zidane era conocido por poseer una gran técnica y elegancia al jugar. Lo que Zidane podía hacer con el balón en sus pies pocos jugadores podían igualarlo o superarlo, su control de balón, la visión de juego, sus pases precisos y su espectacular regate lo hacían un jugador muy completo que brillaba cada partido.
 
 Uno de los momentos más recordados de Zidane como jugador fue esa mítica volea en la final de la UEFA Champions League contra el Bayer Leverkusen, dejándonos ver uno de los mejores goles de la historia.
+
+![Zidane](https://www.defensacentral.com/userfiles/zidane_2002_.jpg)
 
 ### Ronaldo Nazário
 Apodado "El Fenómeno" por su gran velocidad, su fuerza física, su técnica, su regate y su capacidad inigualable de definir y marcar goles lo hicieron un jugador casi imparable, por lo que le dieron ese apodo que representaba lo peligroso que era para los rivales cuando estaba en el campo.
@@ -30,10 +34,14 @@ El delantero brasileño, considerado el mejor "9" de la historia, llego provenie
 
 En su debut con el Real Madrid marcó un doblete, con este inicio era imposible que su etapa en el club no estuviera llena de goles, durante su estancia en el conjunto merengue Ronaldo alcanzo la cifra de 104 goles, siendo el máximo goleador del equipo por varias temporadas.
 
+![Ronaldo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSWKQ8woqL1S05g9KxG6ZHrL_8pOPkDcOFCQ&s)
+
 ### David Beckham
 David llego en el 2003 proveniente del Manchester United. David era uno de los jugadores más populares del momento, su fichaje fue más por lo que podía aportar de marketing al equipo que por lo que podía hacer en el campo. Aunque si era uno de los mejores jugadores del mundo, Beckham destacaba más en el ámbito comercial.
 
 Beckham es recordado por esa precisión impresionante que tenía con los pases largos, tiros libres y centros, esto lo hizo ser una pieza clave para el mediocampo merengue, apoyando también en tareas defensivas.
+
+![Beckham](https://i.pinimg.com/originals/8a/aa/22/8aaa229697c555f50f9ad8996bf935dd.jpg)
 
 ### Roberto Carlos
 Roberto Carlos llego al Real Madrid en el año 1996 desde el Inter de Milán, unos años antes de la era galáctica. Pero esto no quiere decir que no haya sido importante en esta época.
@@ -42,10 +50,14 @@ Apodado como "El Hombre Bala" Roberto es considerado uno o el mejor lateral izqu
 
 Durante esta época fue muy importante, dando asistencias y marcando goles importantes con su gran capacidad de unirse al ataque.
 
+![Roberto Carlos](https://www.lanacion.com.ar/resizer/v2/el-historico-jugador-del-real-madrid-conto-564QZIOBHFF4VANJFG6FICGH4M.jpg?auth=46e054a7c2ea1b4c911858aef60ed3b7e5fb5a2e1bfb275530afc40b9c11e394&width=420&height=280&quality=70&smart=true)
+
 ### Raúl González Blanco
 Raúl uno de los mayores iconos del madridismo es producto de la cantera merengue, inicio sus proceso en el primer equipo en 1994, para cuando llego la era galáctica, Raúl ya era capitán y el máximo referente del club.
 
 Gracias a su gran olfato goleador, visión de juego y técnica, le aporto mucho al juego de los galácticos, llegando a ser el máximo goleador de la historia del club.
+
+![Raúl](https://www.planetarealmadrid.com/uploads/s1/42/31/2/raul-real-madrid.jpeg)
 
 ## Éxitos
 En esta era galáctica, el equipo logro conquistar una UEFA Champions League (2001-2002), 2 ligas españolas (2000-2001 y 2002-2003), 3 Supercopas de España y una Supercopa de Europa.

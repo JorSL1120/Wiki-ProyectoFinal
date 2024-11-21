@@ -10,6 +10,8 @@ Florentino Pérez finalmente fue electo como nuevo presidente del Real Madrid en
 
 Al final Florentino logro cumplir su promesa, con una cifra record de 60 millones de euros el Real Madrid había fichado a Luis Figo. Este proceso se pudo dar ya que Luis tenía una clausula en su contrato, la cual decía que el club que pagara la cantidad de 60 millones de euros podría saltarse las negociaciones con el Barcelona y hablar directamente con el jugador para ficharlo.
 
+![Presentacion Figo](https://as01.epimg.net/futbol/imagenes/2020/07/21/reportajes/1595362637_915018_1595362909_noticiareportajes_grande.jpg)
+
 Todo este suceso provoco una reacción del Barcelona de odio e indignación hacia el Real Madrid y hacia Figo. Los aficionados del Barcelona sintieron que Luis Figo y el presidente del Barcelona los habían traicionado, ya que cuando los rumores del posible fichaje de Luis con el conjunto merengue empezaron a sonar, lo único que hizo el presidente del Barcelona fue prometer y jurar que Figo no se iría del club, que él lo mantendría ahí y no estaba dispuesto a aceptar ninguna oferta por Figo.
 
 Los aficionados blaugranas expresaron su odio hacia Figo en los partidos posteriores en los que el Real Madrid se enfrentó al Barcelona en los "Clásicos", los aficionados comenzaron lanzando billetes falsos con la cara de Figo hacia el terreno de juego, también corearon varios insultos hacia el futbolista portugués. Esto se repetía cada que se enfrentaban estos 2 clubes. Aunque uno de los peores actos que hicieron los aficionados del Barcelona, fue el lanzar una cabeza de cerdo mientras Luis iba a cobrar un tiro de esquina.
@@ -20,6 +22,8 @@ En cambio para los aficionados merengues todo era alegría, ya que aquella prome
 El fichaje de Figo venía acompañado de grandes expectativas, y como era de esperarse no decepcionó. Desde el inicio, Figo demostró ese gran nivel que lo llevo a conseguir el Balón de Oro (premio al mejor jugador del mundo). Desenvolviéndose por la banda derecha Figo aporto mucho siendo un jugador clave para el esquema del Real Madrid, ayudando al equipo con su gran talento y liderazgo.
 
 A pesar de ser un extremo derecho, Figo podía jugar por ambas bandas, aunque su mejor nivel siempre lo mostro estando por la derecha del ataque. Destaco mucho por su gran habilidad que tenía cuando el balón estaba en sus pies, podía regatear en espacios muy reducidos para librarse de rivales y generar jugadas ofensivas o marcar goles, aumentando que tenía un excelente control de balón. Gracias a su visión de juego, Luis lograba asociarse fácilmente con sus compañeros para de esta forma mejorar el juego de toda la plantilla.
+
+![Luis Figo](https://assets.goal.com/images/v3/blta1922b13a7d64e06/75b6f2397b10a84cf89d787134ed707221d73faf.jpg?auto=webp&format=pjpg&width=3840&quality=60)
 
 Uno de los rasgos más característicos de Luis era su gran precisión para los tiros libres y su gran técnica de realizar disparos lejanos, por lo que esto lo convertía en una amenaza para cualquier rival que le dejara un poco de espacio. Todos estos rasgos lo convirtieron el motor ofensivo del Real Madrid.
 
