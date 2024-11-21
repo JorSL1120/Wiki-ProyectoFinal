@@ -8,7 +8,7 @@
 1. Mexicanos en el Real Madrid
 1. Las 3 Champions consecutivas --
 1. Zinedine Zidane
-1. Luis Figo
+1. Luis Figo --
 1. El número 7 --
 1. La quinta del Buitre --
 1. Los galácticos --
