@@ -4,6 +4,8 @@ Para muchos es considerado el mejor tridente que ha visto el fútbol, integrada 
 ## La llegada de Gareth Bale
 Procedente del Tottenham Hotspur, Bale llego al club blanco por una cifra record de 100 millones de euros, superando el record impuesto por Cristiano Ronaldo que le costó 94 millones de euros al Real Madrid. Siendo el fichaje más caro de la historia, la presión para el joven galés era alta, aunque casi al instante su talento en el campo se hizo evidente ante los ojos de todo el mundo.
 
+![Presentación Jude]()
+
 Gracias a su velocidad descomunal, su gran potencia física, su habilidad con el balón en los pies y su facilidad de marcar goles, ayudo al Real Madrid a ser una amenaza mayor en el ataque con la ayuda de Cristiano y Benzema.
 
 El Expreso de Gales, apodado así por su gran velocidad y su país de origen se desenvolvió principalmente por la banda derecha del ataque, cumpliendo la posición de extremo derecho, aunque durante el partido los 3 jugadores tenían la capacidad y la facilidad de moverse por todas las posiciones del ataque sin perder la calidad de su juego.

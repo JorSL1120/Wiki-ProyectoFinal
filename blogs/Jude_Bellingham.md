@@ -4,6 +4,8 @@ Jude Bellingham, es uno de los talentos más prometedores del fútbol actual, tr
 ## Llegada
 Jude llego al Real Madrid proveniente del Borussia Dortmund, equipo donde a su temprana edad ya había dejado una huella importante, siendo uno de los mejores jugadores del equipo y de la liga alemana. Su traspaso se cerró por una cifra cercana a los 103 millones de euros, la cual se dice que puede alcanzar los 120 millones si contamos bonificaciones relacionadas a su rendimiento.
 
+![Presentación Jude](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBoJcrC4IH6e49koKtI2aCFpNe-uismI8ZDQ&s)
+
 Desde su llegada al club blanco en el verano del 2023, Jude asumió el reto de destacar dentro de un club lleno de historia y de estrellas que lo rodean a diario. El futbolista inglés firmó por 6 temporadas con el conjunto merengue. Su fichaje generó grandes expectativas, apoyadas principalmente de su gran paso por la liga alemana, en la cual llego a ser capitán de su anterior equipo el Borussia Dortmund con apenas 19 años de edad. La capacidad que tiene para liderar, aumentando esa hambre de superación y de cada día ser mejor, llevan a Jude por un camino de gloria dentro del club.
 
 ## Adaptación
@@ -12,6 +14,8 @@ Desde los inicios de la temporada, Jude hizo un impacto inmediato dentro del clu
 Desde una época temprana de la temporada Jude tuvo que tomar un protagonismo importante, esto debido a las lesiones que tenían varios de los jugadores importantes del club, como Vinicius Jr., Courtois y Militao. El joven ingles destaco desde el minuto 1, algo que todo el madridismo quería ver, aún más tras la salida de Karim Benzema, uno de los jugadores vitales del club.
 
 Carlo Ancelotti acomodo la plantilla para que Jude tuviera ese papel protagónico que tanto se le pedía. Carlo decidió mover la formación habitual que se utilizaba en el Real Madrid, quitando la posición de centro delantero que tras la salida de Benzema el equipo se había quedado sin su referente de área, por lo que decidió jugar con 4 mediocampistas en lugar de los 3 habituales, por lo que Jude nos mostró su mejor versión jugando atrás de los delanteros como un mediocampista ofensivo.
+
+![Jude festejo](https://www.laprensa.hn/binrepository/1350x900/75c0/1200d900/none/11004/SORI/jude-bellingham07_5719848_20231007131509.jpg)
 
 ## Temporada 2023-2024
 En su primera temporada Jude fue uno de los jugadores más destacados de la plantilla y del mundo en general. Tuvo una temporada de ensueño para un debutante en el Real Madrid. El equipo se adaptó perfectamente al planteamiento que el entrenador Ancelotti les puso, Jude supero completamente las expectativas que se tenían de él, ganando títulos importantes como La Liga española, la UEFA Champions League y la Supercopa de España, siendo una pieza fundamental e inamovible del planteamiento del entrenador italiano.
@@ -25,6 +29,8 @@ Tuvo un impacto muy importante, no solo para el club, sino también para el mund
 
 ## Perspectivas
 A pesar de su juventud, Jude Bellingham demostró más de lo esperado en su primera y única temporada completa en el Real Madrid, por lo que gracias a su talento y sus números, podemos asegurar que puede ser uno de los mejores jugadores que va a ver el mundo del futbol, y será un icono para el Real Madrid.
+
+![Jude champions](https://cdn.24.co.za/files/Cms/General/d/11883/e408ead42b2d42a2a9e7b8ee347c4f57.jpg)
 
 Gracias a su técnica, su habilidad con el balón, su cercanía con el gol y su facilidad por el armado del juego, podemos asegurar que estamos viendo a un jugador que va a marcar una época sin duda alguna, respaldado con su juego que nos hace recordar a ese glorioso jugador francés llamado Zinedine Zidane que es un icono del fútbol mundial.
 
