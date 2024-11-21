@@ -3,6 +3,8 @@ Cristiano Ronaldo llegó al Real Madrid en el verano de 2009, las expectativas d
 
 El Real Madrid lo compró después de unas magníficas temporadas de Cristiano en el Manchester United, equipo en el cual Cristiano consiguió su primera Champions League, 3 Premier League y llegó siendo propietario del "Balón de Oro", el cual ganó en el año 2008.
 
+![Presntación CR7](https://st1.uvnimg.com/4b/34/12a74fdd4c2b9ad591ad135eaa09/gettyimages-93894328.jpg)
+
 ## Primeros años
 Cristiano llegó en una etapa de transición en el club, el cual estaba dejando atrás la "Era de los Galácticos". El equipo no había ganado la Champions League desde la temporada 2001-2002, y el eterno rival, el Barcelona dominaba el fútbol español bajo la dirección de Pep Guardiola.
 
@@ -15,6 +17,8 @@ Era la temporada 2013-2014, Cristiano Ronaldo y el Real Madrid buscaban la anhel
 
 Cristiano marco un temporada histórica en UEFA Champions League, estableció el récord de más goles en una edición, con 17 goles sigue siendo el récord hasta la actualidad. Gracias al gran nivel que mostró Cristiano en esta edición el Real Madrid por fin después de 12 años ganaría de nuevo la UEFA Champions League, a la cual se le conoce como "La Decima" haciendo referencia a que fue la décima vez que ganaron el torneo.
 
+![Festejo gol Decima](https://fotografias.lasexta.com/clipping/cmsimages02/2020/05/24/33A604B2-B006-431B-AC9B-D1F17F1C0BEB/98.jpg?crop=3190,1795,x0,y0&width=1900&height=1069&optimize=low&format=webply)
+
 Desde la fase de grupos Cristiano mostro un gran nivel marcando 9 goles, en los octavos de final 4 goles, en los cuartos 1 gol, en la semifinal 2 goles y en la final 1.
 
 ## Las 3 Champions consecutivas
@@ -23,6 +27,8 @@ En la conquista de las 3 Champions consecutivas Cristiano mantuvo su nivel visto
 El gran trabajo de del equipo siguió en la siguiente temporada, la 2016-2017, Cristiano no empezó de la mejor manera la temporada, aunque en las fases decisivas hizo uno de los mejores papeles en la competencia, al final marcó 12 goles y ayudo al equipo a conseguir la segunda UEFA Champions League consecutiva, siendo el único club en lograrlo con el nuevo formato.
 
 Pero si esto no era suficiente, Cristiano Ronaldo y el Real Madrid conseguirían "La Decimotercera" en la siguiente temporada, la 2017-2018, Cristiano Ronaldo marcó 15 goles, volviendo a ser el máximo goleador de la competición y así consiguiendo su 4 Champions League con el club merengue.
+
+![Quinta Champions](https://cdn2.mediotiempo.com/uploads/media/2023/01/12/cristiano-ronaldo-gano-champions-madrid_0_0_1200_747.jpg)
 
 ## El Adiós
 Después de 9 temporadas Cristiano Ronaldo dejaba el Real Madrid, noticia que sorprendería a más de uno, hay rumores que su salida fue para buscar nuevos retos, otros dicen que la relación con la directiva del club no era la mejor, la verdad es que no se sabe la razón por la cual Cristiano tomo la decisión de abandonar el club.
@@ -33,3 +39,5 @@ Aunque sin dudarlo Cristiano dejo una huella que posiblemente nadie pueda llegar
 Durante su estancia en el Real Madrid, Cristiano Ronaldo consiguió 4 UEFA Champions League, 2 ligas españolas, 2 Copas del Rey y 3 Supercopas de Europa.
 
 Con un total de 450 goles en 438 partidos oficiales se convirtió en el máximo goleador del club, quitándole el título a Raúl González Blanco uno de los mayores ídolos del madridismo.
+
+![Chilena CR7](https://ak.uecdn.es/p/110/thumbnail/entry_id/0_2o48wj8k/width/660/cache_st/20180711182455/type/2/bgcolor/000000/0_2o48wj8k.jpg)
