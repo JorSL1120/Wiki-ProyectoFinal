@@ -16,12 +16,16 @@ Uno de los nombres que más destaca es el del icónico Raúl González Blanco, e
 
 Actualmente Raúl es el entrenador del Real Madrid Castilla, apoyando a las jóvenes promesas para formarlos de la mejor manera y puedan ser opción para jugar con el primer equipo.
 
+![Raúl](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeQOcBrI-2uNcJmoDyvb2xNCBq4FbrThrD7g&s)
+
 ### Iker Casillas
 Considerado de los mejores porteros de la historia, San Iker es uno de los mayores ejemplos de éxito de la cantera. Debuto en el primer equipo del Real Madrid con apenas 18 años, y se logró consolidar como titular rápidamente.
 
 Durante su estancia en el club, Casillas jugo 725 partidos, levantado trofeos importantes como 3 UEFA Champions League y 5 ligas españolas. Iker no solo destaco por su gran habilidad bajo los 3 palos, sino que lo hizo por su liderazgo, uno de los valores que se enseña en la cantera.
 
 San Iker fue crucial en momentos históricos del club, destacando la final de la Champions League de 2002, en la cual sustituyo a Cesar Sánchez por una lesión, Iker realizo paradas milagrosas que le aseguraron la victoria al Real Madrid por un marcador de 2-1 frente el Bayer Leverkusen.
+
+![Iker debut](https://i.pinimg.com/474x/49/36/b7/4936b793bd4cc9dd56e5b38a8bea7d82.jpg)
 
 Fue capitán del real Madrid en sus últimos años en el club, simbolizando la identidad madridista con su sacrificio y amor por el escudo. Este impacto no solo se quedó en el Real Madrid, también lo tuvo con la selección española de futbol, con la cual ganó 2 Eurocopas, la del 2008 y 2012, y su mayor logro un mundial en Sudáfrica 2010.
 
@@ -32,12 +36,16 @@ Tras ese hallazgo Carvajal en busca de minutos en el futbol de primera división
 
 Desde su regreso al Real Madrid se ha convertido en uno de los referentes del club, siendo capitán en la actualidad. Con el primer equipo Dani ha sido una pieza fundamental en la conquista de distintos títulos, en los cuales podemos destacar 6 UEFA Champions League (2014, 2016, 2017, 2018, 2022 y 2024), 4 ligas españolas, 5 Supercopas de Europa, 5 Mundiales de clubes, 4 Supercopas de España. Individualmente podemos destacar el premio al Mejor jugador de la final de la UEFA Champions League 2024, final en la que marcó un gol para marcar el camino para la coronación del Real Madrid.
 
+![Carvajal gol final](https://images.ecestaticos.com/61DX1OKU2x98T3ij_z7mqAV6dK8=/0x0:2272x1461/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fdfd%2F14e%2F87e%2Fdfd14e87ec66f7f24c6001431d6ddef0.jpg)
+
 Carvajal ha mostrado su gran liderazgo en momentos cruciales, como en finales de Champions. El éxito de Carvajal es testimonio de lo que la cantera es capaz de hacer con sus jugadores que combinando el talento con una mentalidad de superación y disciplina pueden llegar a ser referentes no solo en el Real Madrid, sino en el futbol mundial.
 
 ### Nacho
 Nacho Fernández, otro de los canteranos qué más podemos destacar, representando perfectamente el compromiso y la lealtad por el club. Con 11 años ingreso a la cantera merengue, tras pasar por todas las categorías inferiores debuto con el primero equipo en el año 2011 bajo el mando de José Mourinho.
 
 A pesar de que Nacho no siempre fue un titular indiscutible, gracias a su polivalencia, esfuerzo y amor por el escudo, lo convirtió en una pieza clave del conjunto merengue en los últimos años. Capaz de jugar por toda la defensa Nacho siempre respondió donde fuera que lo pusieran a jugar, era ese jugador que sin ser titular sabias que cuando lo necesitaras iba a estar ahí dando resultados y demostrando lo que era capaz de aportar para el conjunto.
+
+![Capitan Nacho](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSzbzT8ezMCjwW8K0sVvQ_LvyHJ4vVIiIf6w&s)
 
 Dentro de su palmarés podemos destacar 6 UEFA Champions League, 4 ligas españolas y 5 Supercopas de España.
 

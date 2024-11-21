@@ -1,6 +1,8 @@
 # La era galáctica
 El Real Madrid a lo largo de su historia ha tenido jugadores muy buenos en sus filas, jugadores top mundiales, siendo lo mejor de lo mejor. Aquí es donde llegan Los Galácticos, un proyecto muy ambicioso de juntar a los mejores futbolistas en un solo equipo. El presidente del Real Madrid Florentino Pérez se propuso lograr este proyecto, esta era galáctica duro únicamente 6 años, iniciando en el año 2000 con el fichaje de Luis Figo.
 
+![Galacticos]()
+
 Durante este proceso el Real Madrid junto a algunos de los mejores jugadores de ese momento, lo cual lleno al equipo de mucho talento individual y un marketing global que le traería muchos beneficios económicos al club.
 
 ## Origen de los galácticos

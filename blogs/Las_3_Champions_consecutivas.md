@@ -20,6 +20,8 @@ La semifinal fue un enfrentamiento muy parejo contra el Manchester City. En el p
 
 En la final, el real Madrid se enfrentaría nuevamente al Atlético de Madrid como hace 2 temporadas. El partido fue muy duro para ambos equipos, el cual terminaría 1-1 en el tiempo reglamentario y en los tiempos extra. El juego se decidiría en los penales, los cuales terminaron 5-4 a favor del Real Madrid, lo que significaba que de nuevo eran campeones de la UEFA Champions League. Conquistando "La Undécima".
 
+![undecima](https://www.mundodeportivo.com/files/image_449_220/uploads/2016/11/11/60e7745956264.jpeg)
+
 ## Temporada 2016-2017
 En esta ocasión el Real Madrid no tendría mucha suerte con el sorteo, se iba a enfrentar a 2 equipos complicados, uno era el Borussia Dortmund y el otro era el Sporting Club.
 
@@ -34,6 +36,8 @@ En los partidos de cuartos de final, el club merengue se enfrentaría al Bayern 
 En la semifinal se enfrentaría al Atlético de Madrid, en el primer partido el club merengue se impondría con un marcador de 3-0, mientras que en la vuelta el Atlético se llevaría la victoria con un 2-1. El marcador global terminaría 4-2 a favor del Real Madrid por lo que iría de nuevo a otra final.
 
 En la final el Real Madrid no tuvo piedad, gano el partido 4-1 derrotando a la Juventus, los cuales parecía que darían batalla, ya que tal primer tiempo fue muy parejo. De esta forma el Madrid conseguía "La Duodécima".
+
+![duodecima](https://latribunamadridista.com/wp-content/uploads/2020/06/RAmos-y-duod%C3%A9cima.jpg)
 
 ## Temporada 2017-2018
 Nuevamente el Real Madrid no tendría suerte con el sorteo, les tocaba enfrentarse a 2 rivales muy complicados como lo eran el Borussia Dortmund y el Tottenham, para completar el grupo estaba el APOEL.
@@ -51,3 +55,5 @@ La semifinal no sería sencilla, se enfrentaría al Bayern Munchen. Fue una elim
 En la final se enfrentaría al Liverpool, el equipo inglés pasaba por un muy buen momento, pero el Real Madrid destacando a Gareth Bale se llevaría la victoria con un marcador de 3-1, 2 de esos goles fueron de Bale, uno de ellos de chilena.
 
 Esto representaría la conquista de "La Decimotercera".
+
+![decimotercera](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgt7PH2uE_O9a1XisgfWWZvDqD9SDb-4mD2Q&s)

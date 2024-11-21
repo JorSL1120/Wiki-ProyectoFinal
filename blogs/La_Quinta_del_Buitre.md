@@ -3,6 +3,8 @@ La generación llamada "La Quinta del Buitre" es una de las etapas más gloriosa
 
 El periodista Julio César Iglesias los nombro como "La Quinta del Buitre" debido a que el máximo representante del grupo era Emilio Butragueño, jugador el cual tenía el apodo de "El Buitre", lo de La Quinta hacía referencia a los 5 jugadores que conformaban el grupo, los cuales eran: Emilio Butragueño, Manolo Sanchís, Martín Vázquez, Miguel Pardeza y Rafael Gordillo.
 
+![La quinta del buitre](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfn5HogZkGkbPOxstkq9d2B06SQwW3fIFXVQ&s)
+
 ## Inicios
 El inicio de esta generación se da en la cantera del Real Madrid, principalmente en su equipo filial el Real Madrid Castilla. Durante los primeros años de la década de los 80s, estos jugadores estaban destacando mucho en las categorías inferiores del club merengue, pero no fue hasta la temporada de 1983-1984, cuando brillaron de verdad, Butragueño, Sanchís, Martín Vázquez y Pardeza juntos con otros jóvenes tuvieron unas actuaciones memorables con el Real Madrid Castilla, equipo que en ese tiempo se encontraba en la segunda división española.
 
@@ -11,6 +13,8 @@ Estos 4 jugadores fueron los más destacados de ese equipo, tanto así que en el
 ## Representantes
 ### Emilio Butragueño
 "El Buitre", fue el jugador con más reflectores y más icónico del grupo, siendo un delantero habilidoso, con un gran olfato goleador, rápido, técnico, con una gran habilidad para regatear y definir de la mejor manera lo convirtieron en uno de los mejores y más temidos delanteros de la época.
+
+![Butragueño](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr6IjVN5RKC2BlAploxcc2UhqhBm9MoBlQMA&s)
 
 En su paso por el Real Madrid Emilio marcó un total de 171 goles, siendo clave en el equipo para conseguir las 5 ligas españolas consecutivas y 2 Copas de la UEFA.
 
@@ -21,10 +25,14 @@ Sanchís hizo lo que pocos en el mundo del fútbol pueden presumir, toda su carr
 
 Ese liderazgo, carácter competitivo y su capacidad para leer el juego lo convirtieron en un defensa central confiable y muy sólido. A parte de eso poseía una gran técnica con el balón, por lo que lo convirtió en un jugador top, el cual dio los primeros pasos para que la posición de defensa central fuera evolucionando a jugadores con más calidad y técnica para salir jugando.
 
+![Sanchís](https://tmssl.akamaized.net//images/foto/galerie/manolo-sanchis-real-madrid-1584455393-34096.jpg?lm=1584455404)
+
 Sanchís disputo más de 700 partidos oficiales con el club, ganando 21 títulos, de los cuales destacamos 8 ligas españolas y 2 Copas de Europa.
 
 ### Martín Vázquez
 Martín era un gran centrocampista, el cual tenía mucha técnica, por lo que aportaba mucho al armado de jugadas para el ataque dándole creatividad y fluidez al equipo. Podríamos decir que fue el cerebro de ese Real Madrid, ya que con su gran visión de juego era el personaje principal para iniciar el ataque del conjunto merengue, aunque gracias a su versatilidad le permitía jugar en la mayoría de las posiciones en el mediocampo madridista.
+
+![Martín](https://phantom-marca.unidadeditorial.es/9beb3bcb56584ac75006cbd0514989c0/crop/0x0/659x371/resize/414/f/jpg/assets/multimedia/imagenes/2020/12/07/16073700704470.jpg)
 
 Martín Vázquez fue pieza fundamental para esa elaboración de juego. Ganó 6 ligas españolas y 2 Copas de Europa.
 
@@ -33,10 +41,14 @@ Miguel fue el que menos protagonismo tuvo dentro del club, pero esto no signific
 
 A pesar de su breve estadía en el Real Madrid, Martín fue parte fundamental del grupo en sus inicios. Tristemente en la etapa que más destaco dentro del mundo del futbol, fue fuera del Real Madrid. Pardeza ficho por el Real Zaragoza, club en el cual se convertiría en icono y figura clave.
 
+![Pardeza](https://futbolretro.es/wp-content/uploads/2018/12/scoopnest.jpg)
+
 ### Rafael Gordillo
 Rafael Gordillo no surgió en la cantera del Real Madrid como los 4 anteriores, Gordillo se integró al grupo como un jugador experimentado, el cual complementaba muy bien con los 4 jóvenes, dándole ese toque de madurez al grupo.
 
 Rafael jugaba principalmente como lateral izquierdo, aunque también llego a jugar dentro del medio campo merengue. Era un jugador con gran capacidad física e incansable, lo cual le permitió adueñarse de la banda izquierda, demostrando esa capacidad de atacar y defender con mucha eficacia, estos hizo que se convirtiera en una pieza clave del equipo.
+
+![Gordillo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB1CFztB1XfYA-6fOpE4xjvg8c_H7pjZOn4Q&s)
 
 Gordillo se unió al club en el año de 1985 proveniente de Real Betis.
 
