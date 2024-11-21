@@ -8,6 +8,8 @@ Gracias a su explosividad y los goles importantes que Vinicius ha marcado se est
 ## La llegada
 Vinicius Jr. llegó al Real Madrid en el verano del 2018 proveniente del Flamengo, equipo en el cual debutará a la edad de 16 años, siendo una joven promesa para el fútbol brasileño. Desde sus inicios se le veía que tenía ese don especial, por lo que rápidamente llamó la atención de varios clubes de Europa, principalmente del Real Madrid.
 
+![Llegada vini](https://i.pinimg.com/736x/79/6f/bd/796fbda1ee182fe0fe048ecac81760ed.jpg)
+
 Tras sus buenas actuaciones en el Flamengo el Real Madrid decidió hacer una fuerte apuesta por el joven futbolista brasileño, en el año 2017 el Real Madrid decidió asegurar sus fichaje con una cifra que ronda los 45 millones de euros. Como el Madrid ya lo había hecho en toda su historia, este precio que pagó por el joven Vinicius es de los fichajes más caros por un jugador menor de edad.
 
 El Real Madrid de idio que se mantuviera en el fútbol brasileño hasta que fuera mayor de edad, para que tuviera muchos minutos de juego y fuera ganando experiencia. Tras este tiempo llegó el momento de ser presentado oficialmente como futbolista del Real Madrid.
@@ -31,6 +33,8 @@ Todo este proceso con Zidane fue dando sus frutos partido tras partido, pero no 
 La temporada 2021-2022 fue la temporada que marcó un punto de inflexión para Vinicius Jr. y el Real Madrid. Vinicius se convirtió en una pieza fundamental del planteamiento de Ancelotti, formando una dupla letal con Karim Benzema, que tras la salida de Cristiano se había convertido en el jugador referencia del club.
 
 Esta asociación con Karim llevó a Vinicius a sacar lo mejor de él finalizando la temporada con 22 goles y 20 asistencias, con estos números podemos ver la gran evolución que Vinicius tuvo desde su primera temporada, convirtiéndose en el segundo goleador de la temporada solo detrás de Karim Benzema, quien se beneficio de los grandes pases de Vinicius para lograr su mejor marca como goleador.
+
+![Vini gol final](https://e.rpp-noticias.io/xlarge/2022/05/28/550355_1265303.jpg)
 
 En esta temporada el Real Madrid sería campeón de la liga española y de la UEFA Champions League, la esperada “Decimocuarta”, la cual el Real Madrid ganó con un gol del brasileño, marcó el tiempo de dejar de ser una promesa y consolidando como uno de los mejores jugadores del mundo.
 

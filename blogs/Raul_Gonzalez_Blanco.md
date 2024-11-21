@@ -3,6 +3,8 @@ Cuando hablamos de Raúl González Blanco, es hablar de historia pura del Real M
 
 Lo que Raúl logro en el Real Madrid no solo tuvo repercusión en el primer equipo, al ser un canterano merengue cumplió con todos los valores y enseñanzas que se le dieron dentro de la Fábrica y los externo con su fútbol al mundo entero.
 
+![Raul](https://publish-p47754-e237306.adobeaemcloud.com/adobe/dynamicmedia/deliver/dm-aid--ce195dbc-ce77-4ba8-a644-6461959f567f/_330186261754.app.webp?preferwebp=true&width=312)
+
 ## El comienzo
 Raúl nació en la ciudad de Madrid en el año 1977. Su pasión y amor por el fútbol comenzó en el barrio donde nació, esto significo algo importante para él, ya que pronto llamaría la atención de ojeadores locales. Ingresó a la cantera del Atlético de Madrid, donde comenzó a mostrar esos dotes que tenia de goleador. En 1992 tras una crisis económica el Atlético de Madrid cerró su cantera, lo que llevo a Raúl a las filas de La Fábrica.
 
@@ -21,6 +23,8 @@ Raúl a lo largo de su carrera con el Real Madrid fue de los jugadores más dest
 En su estancia en el Real Madrid jugó un total de 741 partidos, en los cuales marcó un total de 323 goles, esta cifra le permitió ser por un tiempo el máximo goleador del Real Madrid tras superar al mítico Alfredo Di Stéfano en el año 2009. Este título le duro hasta el 2015 cuando Cristiano Ronaldo logro superarlo.
 
 Raúl como líder del Real Madrid vivió una de las mejores épocas del club, consiguiendo 6 ligas españolas, 3 UEFA Champions League, 2 Copas Intercontinentales, 1 Supercopa de Europa y 4 Supercopas de España.
+
+![Capitan raul](https://static.bongda24h.vn/medias/standard/2015/3/24/Raul.jpeg)
 
 El impacto que tuvo no solo se media con sus goles y asistencias, sino que también por sus valores dentro y fuera de la cancha, Raúl se convirtió en capitán del Real Madrid en 2003 demostrando y transmitiendo a sus compañeros lo que significaba ser jugador del Real Madrid.
 

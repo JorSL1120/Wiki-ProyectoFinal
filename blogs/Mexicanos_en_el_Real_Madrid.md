@@ -8,7 +8,7 @@ José Ramón Sauto fue el primer mexicano en llegar a ser futbolista del Real Ma
 
 Sauto se desarrollaba como mediocampista, el cual llamo la atención del Real Madrid gracias a su visión de juego y su técnica. Se incorporó a las filas merengues en 1940. Sauto se mantuvo en el club por 6 temporadas jugando 70 partidos oficiales, a pesar de nunca ser un goleador ni una figura que destacara sobre los demás, fue un jugador constante contribuyo al Real Madrid un una época complicada, la cual es recordada por los efectos de la Guerra Civil española y la Segunda Guerra Mundial.
 
-![Sauto]()
+![Sauto](https://www.futboltotal.com.mx/wp-content/uploads/2024/03/jose-ramon-sauto-mexicanos-real-madrid-1024x678.jpg)
 
 Mientras estuvo en el Real Madrid José Ramón no logro ganar ningún título, pero es recordado en la historia como el primer mexicano que vistió los colores merengues. En 1946 anunció su retiro del futbol, por lo tanto en este año fue su salida del club, podemos destacar que es de los pioneros mexicanos de jugar en Europa.
 
@@ -23,7 +23,7 @@ Tras su llegada al Real Madrid, Hugo se consolido como un delantero letal, es es
 
 Hugol fue el máximo goleador de la liga española por 5 temporadas consecutivas, 4 de esas 5 fue como jugador del Real Madrid. Una de sus mejores temporadas fue la de 1989-1990, en la cual anoto la impresionante cifra de 38 goles en la liga, estos goles igualaron un record que se mantuvo vigente durante muchos años.
 
-![Hugol]()
+![Hugol](https://www.record.com.mx/sites/default/files/articulos/2022/04/09/senor-gol-hugo-sanchez-1280x720_1-23.jpg)
 
 La historia de Hugo en el Real Madrid no solo se trata de goles, también gano títulos importantes con el conjunto blanco. Dentro de su palmarés como jugador merengue se encuentran 5 ligas españolas, las cuales gano consecutivamente, 3 Supercopas de España, 1 Copa del rey y 1 Copa de la UEFA.
 
@@ -38,6 +38,6 @@ A pesar de que Javier tuvo un paso muy breve por el club dejo un buen sabor de b
 
 Como jugador del Real Madrid el máximo goleador de la selección mexicana consiguió un trofeo, fue el Mundial de clubes del 2014.
 
-![Asistencia cr7]()
+![Chicharito](https://strikers.futbol/__export/1674683957680/sites/strikers/img/2023/01/25/chicharito_portada.jpg_1363832705.jpg)
 
 A pesar de que Chicharito no tuvo malas actuaciones en el club, el Real Madrid decidió no ejercer la opción a compra, por lo que al finalizar la temporada Javier dejo de ser jugador del Real Madrid y continuo su carrera por otros clubes europeos.

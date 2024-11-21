@@ -6,6 +6,8 @@ Desde su llegada al club, Ramos se proyectó para en un futuro ser ese líder qu
 ## El inicio
 En el verano del 2005, el Real Madrid se arriesgó con una apuesta que no sabrían con certeza como resultaría, pagaron 27 millones de euros por un joven defensor de 19 años perteneciente al Sevilla, equipo con el cual había hecho una gran temporada en su primera campaña como profesional. En aquel momento Sergio Ramos se convertiría en el fichaje más caro para un defensa español.
 
+![Llegada a Madrid](https://e00-marca.uecdn.es/assets/multimedia/imagenes/2020/09/08/15995742656874.jpg)
+
 Este movimiento tan arriesgado mostraba la proyección y la confianza que el Real Madrid le veía a la joven promesa española. El presidente Florentino Pérez vio algo en aquel joven de 19 años que iba a beneficiar al club en un futuro no muy lejano.
 
 Desde su llegada Serio Ramos demostró que valía esos 27 millones de euros, y que el Real Madrid había hecho una apuesta arriesgada, pero ganadora con él. Sergio destacaba por ese carácter competitivo y esa ferocidad que se le veía al jugar, combinando estas 2 cosas con su gran capacidad física y versatilidad hicieron que destacar de inmediato.
@@ -25,6 +27,8 @@ Este podría considerarse el momento más icónico de toda la carrera de Sergio 
 En los minutos finales se le veía muy cansado al Atlético, ya que a partir de que consiguieron el gol se dedicaron a defender, por lo que prácticamente todo el partido estuvieron persiguiendo el balón de un lado a otro. El Real Madrid estaba atacando mucho con la esperanza de que un milagro llegara y pudieran mandar el partido a tiempos extras. Llegaba el minuto 90, el árbitro avisaba que aumentaría 4 min de compensación por el tiempo perdido durante el partido, paso el primer minuto y el segundo, los jugadores colchoneros pedían que ya se terminara el partido, mientras que el Real Madrid no se cansaba de atacar.
 
 Pasaba el minuto 92:30, el Real Madrid conseguía un tiro de esquina, Luka Madrid era el encargado de cobrarlo, los segundos avanzaban, hasta Modric hizo el cobro. Si le preguntas a cualquier madridista de cómo recuerda ese gol, te dirá que vio como el balón se dirigía en cámara lenta hacia el área colchonera, en eso una figura sobresalió sobre todas las personas que se encontraban ahí, esa figura era Sergio Ramos, el cual con un cabezazo perfecto mandaría el balón al interior de la portería colchonera, justo pasando el minuto 92 con 48 segundos.
+
+![Gol final](https://cloudfront-eu-central-1.images.arcpublishing.com/diarioas/4ZW6EV5DJNIGHMALQHGCOS4DPI.jpg)
 
 Este gol significo un cambio completo ya que en los tiempos extra el Real Madrid marcaria otros 3 goles, los cuales representarían la victoria del cuadro merengue y la conquista de "La Décima".
 
