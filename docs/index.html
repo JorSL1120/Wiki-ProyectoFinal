@@ -8,21 +8,197 @@
   </head>
   <body>
     <header>
-      <div class="container mt-4">
-        <form id="search-form" class="d-flex">
-          <input id="search-input" class="form-control me-2" type="search" placeholder="Buscar..." aria-label="Buscar">
-          <button class="btn btn-outline-primary" type="submit">Buscar</button>
-        </form>
-      </div>
-      <p>aqui header</p>
+      <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
+        <div class="container">
+          <!-- Enlace a la página principal -->
+          <a class="navbar-brand" href="index.html">Wiki</a>
+    
+          <!-- Botón para móviles -->
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarContent" aria-controls="navbarContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+    
+          <!-- Contenido de la barra de navegación -->
+          <div class="collapse navbar-collapse" id="navbarContent">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+              <!-- Menú desplegable de blogs -->
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="blogsDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                  Blogs
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="blogsDropdown">
+                  <li><a class="dropdown-item" href="blog1.html" target="_blank">Blog 1</a></li>
+                  <li><a class="dropdown-item" href="blog2.html" target="_blank">Blog 2</a></li>
+                  <li><a class="dropdown-item" href="blog3.html" target="_blank">Blog 3</a></li>
+                </ul>
+              </li>
+            </ul>
+    
+            <!-- Barra de búsqueda -->
+            <form class="d-flex" id="searchForm">
+              <input class="form-control me-2" type="search" placeholder="Buscar..." aria-label="Search" id="searchInput">
+              <button class="btn btn-outline-success" type="submit">Buscar</button>
+            </form>
+          </div>
+        </div>
+      </nav>
     </header>
+    
+    <!-- Contenedor para mostrar resultados de búsqueda -->
+    <div class="container mt-5 pt-5">
+      <div id="searchResults" class="mt-3"></div>
+    </div>
+    
     <main>
-      <p>r</p>
+      <div class="container my-5">
+        <!-- Título -->
+        <div class="row">
+          <div class="col">
+            <h1 class="text-center">Real Madrid Club de Fútbol</h1>
+          </div>
+        </div>
+    
+        <!-- Introducción -->
+        <div class="row my-4">
+          <div class="col-md-8">
+            <p>
+              El <strong>Real Madrid Club de Fútbol</strong>, conocido simplemente como Real Madrid, es un club de fútbol profesional con sede en Madrid, España. Fundado el 6 de marzo de 1902 como *Madrid Football Club*, es uno de los equipos más exitosos y prestigiosos en la historia del fútbol mundial.
+            </p>
+            <p>
+              Su emblema, colores y estadio han sido sinónimos de éxito deportivo y cultural. Su lema no oficial, <em>"Hala Madrid y nada más"</em>, resuena entre millones de aficionados alrededor del mundo.
+            </p>
+          </div>
+          <div class="col-md-4">
+            <!-- Imagen del logo -->
+            <div class="text-center">
+              <img src="imgs/real_madrid_logo.png" alt="Logo del Real Madrid" class="img-fluid rounded">
+            </div>
+          </div>
+        </div>
+    
+        <!-- Historia -->
+        <div class="row my-4">
+          <div class="col-md-4">
+            <!-- Espacio para una imagen histórica -->
+            <div class="text-center">
+              <img src="imgs/real_madrid_history.jpg" alt="Historia del Real Madrid" class="img-fluid rounded">
+            </div>
+          </div>
+          <div class="col-md-8">
+            <h2>Historia</h2>
+            <p>
+              Fundado en 1902, el Real Madrid recibió el título de "Real" en 1920 por el rey Alfonso XIII. El club ha pasado por diversas etapas, destacando la época dorada de los años 1950 con Alfredo Di Stéfano y Ferenc Puskás, quienes llevaron al equipo a dominar el fútbol europeo.
+            </p>
+            <p>
+              En las últimas décadas, ha mantenido su relevancia con estrellas como Cristiano Ronaldo, Zinedine Zidane y Karim Benzema, logrando hazañas históricas como las cinco Champions League en la era moderna.
+            </p>
+          </div>
+        </div>
+    
+        <!-- Estadio -->
+        <div class="row my-4">
+          <div class="col-md-4">
+            <!-- Imagen del estadio -->
+            <div class="text-center">
+              <img src="imgs/santiago_bernabeu.jpg" alt="Santiago Bernabéu" class="img-fluid rounded">
+            </div>
+          </div>
+          <div class="col-md-8">
+            <h2>Santiago Bernabéu</h2>
+            <p>
+              Desde 1947, el <strong>Santiago Bernabéu</strong> ha sido el estadio oficial del Real Madrid. Con una capacidad de más de 81,000 espectadores, ha sido escenario de momentos históricos, incluyendo finales de la Champions League, la Eurocopa y la Copa del Mundo.
+            </p>
+            <p>
+              Actualmente, el estadio está siendo renovado para incluir tecnología de última generación, un techo retráctil y mejoras en la experiencia de los aficionados.
+            </p>
+          </div>
+        </div>
+    
+        <!-- Rivalidades -->
+        <div class="row my-4">
+          <div class="col-md-8">
+            <h2>Rivalidades</h2>
+            <p>
+              El Real Madrid tiene varias rivalidades icónicas, siendo la más destacada el <strong>Clásico</strong> contra el Fútbol Club Barcelona. Este enfrentamiento es uno de los más vistos a nivel mundial y simboliza la rivalidad histórica entre Madrid y Cataluña.
+            </p>
+            <p>
+              Otra rivalidad importante es con el Atlético de Madrid, conocida como el <em>Derbi madrileño</em>, que enfrenta a los dos clubes más grandes de la capital española.
+            </p>
+          </div>
+          <div class="col-md-4">
+            <!-- Imagen de rivalidades -->
+            <div class="text-center">
+              <img src="imgs/real_madrid_rivals.jpg" alt="Rivalidades del Real Madrid" class="img-fluid rounded">
+            </div>
+          </div>
+        </div>
+    
+        <!-- Palmarés -->
+        <div class="row my-4">
+          <div class="col">
+            <h2>Palmarés</h2>
+            <ul>
+              <li><strong>Liga Española:</strong> 35 títulos.</li>
+              <li><strong>UEFA Champions League:</strong> 14 títulos.</li>
+              <li><strong>Copa del Rey:</strong> 20 títulos.</li>
+              <li><strong>Supercopa de Europa:</strong> 5 títulos.</li>
+              <li><strong>Mundial de Clubes:</strong> 4 títulos.</li>
+            </ul>
+          </div>
+        </div>
+    
+        <!-- Plantilla actual -->
+        <div class="row my-4">
+          <div class="col-md-8">
+            <h2>Plantilla Actual</h2>
+            <p>
+              El Real Madrid cuenta con una plantilla diversa que combina experiencia y juventud. Entre los jugadores más destacados se encuentran:
+            </p>
+            <ul>
+              <li>Vinícius Júnior</li>
+              <li>Rodrygo Goes</li>
+              <li>Luka Modrić</li>
+              <li>Jude Bellingham</li>
+            </ul>
+          </div>
+          <div class="col-md-4">
+            <!-- Imagen de la plantilla actual -->
+            <div class="text-center">
+              <img src="imgs/real_madrid_team.jpg" alt="Plantilla actual del Real Madrid" class="img-fluid rounded">
+            </div>
+          </div>
+        </div>
+    
+        <!-- Directiva -->
+        <div class="row my-4">
+          <div class="col-md-4">
+            <!-- Imagen de Florentino Pérez -->
+            <div class="text-center">
+              <img src="imgs/florentino_perez.jpg" alt="Florentino Pérez" class="img-fluid rounded">
+            </div>
+          </div>
+          <div class="col-md-8">
+            <h2>Directiva</h2>
+            <p>
+              El club es dirigido por <strong>Florentino Pérez</strong>, quien ha sido presidente en varias etapas, consolidando al Real Madrid como una marca global y logrando numerosos éxitos deportivos y financieros.
+            </p>
+          </div>
+        </div>
+      </div>
     </main>
-    <footer>
-      <p>df</p>
+
+    <footer class="mt-5">
+      <div class="container">
+        <div class="border-top pt-3">
+          <div class="d-flex justify-content-start align-items-center flex-wrap">
+            <span class="me-2">Wiki hecha por Wild Shock Studio</span>
+            <img src="imgs/logo.png" alt="Logo de Wild Shock Studio" style="height: 30px;">
+          </div>
+        </div>
+      </div>
     </footer>
 
+    <script src="js/main.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
   </body>
 </html>
