@@ -3,11 +3,11 @@ document.getElementById("searchInput").addEventListener("input", async function 
   const paragraphs = document.querySelectorAll("main p");
   const linkedFiles = ["/docs/Alfredo_Di_Stefano/index.html", "/docs/Casillas_Keylor_Courtois/index.html", "/docs/Cristiano_Ronaldo/index.html", "/docs/El_numero_7/index.html", "/docs/Federico_Valverde/index.html", "/docs/Jude_Bellingham/index.html", "/docs/La_BBC/index.html", "/docs/La_Decima/index.html", "/docs/La_Decimocuarta/index.html", "/docs/La_Fabrica/index.html", "/docs/La_Quinta_del_Buitre/index.html", "/docs/Las_3_Champions_consecutivas/index.html", "/docs/Los_Galacticos/index.html", "/docs/Luis_Figo/index.html", "/docs/Maximos_goleadores/index.html", "/docs/Mexicanos_en_el_Real_Madrid/index.html", "/docs/Raul_Gonzalez_Blanco/index.html", "/docs/Sergio_Ramos/index.html", "/docs/Vinicius_Jr/index.html", "/docs/Zinedine_Zidane/index.html"]; // Asegúrate de que estas rutas sean correctas
 
-  // Limpiar resultados externos previos
+  // limpia resultados externos
   const externalResults = document.getElementById("externalResults");
   externalResults.innerHTML = "";
 
-  // Si el campo está vacío, restaurar todo
+  // restaurar todo si no  hay nada escrito
   if (searchInput === "") {
     paragraphs.forEach((p) => {
       p.style.display = "block";
@@ -16,7 +16,7 @@ document.getElementById("searchInput").addEventListener("input", async function 
     return;
   }
 
-  // Búsqueda en el contenido local
+  // busca donde se encuentra ubicado
   paragraphs.forEach((p) => {
     const text = p.textContent.toLowerCase();
     if (text.includes(searchInput)) {
@@ -28,7 +28,7 @@ document.getElementById("searchInput").addEventListener("input", async function 
     }
   });
 
-  // Búsqueda en los archivos externos
+  // busca en los otros archivos
   for (const file of linkedFiles) {
     try {
       const response = await fetch(file);
@@ -41,7 +41,7 @@ document.getElementById("searchInput").addEventListener("input", async function 
       const tempDiv = document.createElement("div");
       tempDiv.innerHTML = text;
 
-      // Buscar coincidencias en los párrafos
+      // busca las coincidencias en los parrafos
       const externalParagraphs = tempDiv.querySelectorAll("p");
       externalParagraphs.forEach((p) => {
         const text = p.textContent.toLowerCase();
@@ -49,7 +49,7 @@ document.getElementById("searchInput").addEventListener("input", async function 
           const regex = new RegExp(`(${searchInput})`, "gi");
           const highlighted = p.textContent.replace(regex, `<mark>$1</mark>`);
 
-          // Añadir resultado al contenedor
+          // el resultado se ve en el contenedor asignado en el main
           externalResults.innerHTML += `
             <div>
               <p>${highlighted}</p>
