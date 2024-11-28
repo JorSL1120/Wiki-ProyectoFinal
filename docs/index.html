@@ -10,7 +10,7 @@
     <header class="bg-dark text-white sticky-top">
       <div class="container">
         <nav class="navbar navbar-expand-lg navbar-dark">
-          <a class="navbar-brand" href="#">Wiki Real Madrid</a>
+          <a class="navbar-brand" href="/docs/index.html">Wiki Real Madrid</a>
           <button
             class="navbar-toggler"
             type="button"
@@ -61,7 +61,7 @@
                 </ul>
               </li>
             </ul>
-            <form class="d-flex" id="searchForm">
+            <form class="d-flex">
               <input
                 class="form-control me-2"
                 type="search"
@@ -69,7 +69,6 @@
                 aria-label="Buscar"
                 id="searchInput"
               />
-              <button class="btn btn-outline-light" type="submit">Buscar</button>
             </form>
           </div>
         </nav>
@@ -77,6 +76,12 @@
     </header>
     
     <main>
+      <div class="container my-5">
+        <div id="externalResults">
+          <!-- Aquí aparecerán los resultados de los blogs -->
+        </div>
+      </div>
+      
       <div class="container my-5">
         <!-- Título -->
         <div class="row">
@@ -138,7 +143,7 @@
       </div>
     </footer>
 
-    <script src="js/main.js"></script>
+    <script src="../main.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
   </body>
 </html>

@@ -1,31 +1,66 @@
-document.getElementById("searchForm").addEventListener("submit", function (e) {
-  e.preventDefault(); // Evita que el formulario se envíe
-  const searchTerm = document.getElementById("searchInput").value.toLowerCase();
-  const searchResults = document.getElementById("searchResults");
-  searchResults.innerHTML = ""; // Limpia los resultados anteriores
+document.getElementById("searchInput").addEventListener("input", async function () {
+  const searchInput = this.value.trim().toLowerCase();
+  const paragraphs = document.querySelectorAll("main p");
+  const linkedFiles = ["/docs/Alfredo_Di_Stefano/index.html", "/docs/Casillas_Keylor_Courtois/index.html", "/docs/Cristiano_Ronaldo/index.html", "/docs/El_numero_7/index.html", "/docs/Federico_Valverde/index.html", "/docs/Jude_Bellingham/index.html", "/docs/La_BBC/index.html", "/docs/La_Decima/index.html", "/docs/La_Decimocuarta/index.html", "/docs/La_Fabrica/index.html", "/docs/La_Quinta_del_Buitre/index.html", "/docs/Las_3_Champions_consecutivas/index.html", "/docs/Los_Galacticos/index.html", "/docs/Luis_Figo/index.html", "/docs/Maximos_goleadores/index.html", "/docs/Mexicanos_en_el_Real_Madrid/index.html", "/docs/Raul_Gonzalez_Blanco/index.html", "/docs/Sergio_Ramos/index.html", "/docs/Vinicius_Jr/index.html", "/docs/Zinedine_Zidane/index.html"]; // Asegúrate de que estas rutas sean correctas
 
-  if (searchTerm.trim() === "") {
-    searchResults.innerHTML = "<p>Por favor, ingresa una palabra para buscar.</p>";
+  // Limpiar resultados externos previos
+  const externalResults = document.getElementById("externalResults");
+  externalResults.innerHTML = "";
+
+  // Si el campo está vacío, restaurar todo
+  if (searchInput === "") {
+    paragraphs.forEach((p) => {
+      p.style.display = "block";
+      p.innerHTML = p.textContent;
+    });
     return;
   }
 
-  // Busca en todos los párrafos del documento
-  const paragraphs = document.querySelectorAll("p");
-  let resultsFound = false;
-
-  paragraphs.forEach((paragraph) => {
-    if (paragraph.textContent.toLowerCase().includes(searchTerm)) {
-      const result = document.createElement("p");
-      result.innerHTML = paragraph.innerHTML.replace(
-        new RegExp(searchTerm, "gi"),
-        (match) => `<mark>${match}</mark>`
-      );
-      searchResults.appendChild(result);
-      resultsFound = true;
+  // Búsqueda en el contenido local
+  paragraphs.forEach((p) => {
+    const text = p.textContent.toLowerCase();
+    if (text.includes(searchInput)) {
+      p.style.display = "block";
+      const regex = new RegExp(`(${searchInput})`, "gi");
+      p.innerHTML = p.textContent.replace(regex, `<mark>$1</mark>`);
+    } else {
+      p.style.display = "none";
     }
   });
 
-  if (!resultsFound) {
-    searchResults.innerHTML = "<p>No se encontraron resultados.</p>";
+  // Búsqueda en los archivos externos
+  for (const file of linkedFiles) {
+    try {
+      const response = await fetch(file);
+      if (!response.ok) {
+        console.error(`No se pudo cargar el archivo: ${file}`);
+        continue;
+      }
+
+      const text = await response.text();
+      const tempDiv = document.createElement("div");
+      tempDiv.innerHTML = text;
+
+      // Buscar coincidencias en los párrafos
+      const externalParagraphs = tempDiv.querySelectorAll("p");
+      externalParagraphs.forEach((p) => {
+        const text = p.textContent.toLowerCase();
+        if (text.includes(searchInput)) {
+          const regex = new RegExp(`(${searchInput})`, "gi");
+          const highlighted = p.textContent.replace(regex, `<mark>$1</mark>`);
+
+          // Añadir resultado al contenedor
+          externalResults.innerHTML += `
+            <div>
+              <p>${highlighted}</p>
+              <small>Encontrado en: <a href="${file}" target="_blank">${file}</a></small>
+            </div>
+            <hr>
+          `;
+        }
+      });
+    } catch (error) {
+      console.error(`Error al cargar ${file}:`, error);
+    }
   }
 });
