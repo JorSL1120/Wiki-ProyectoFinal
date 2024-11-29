@@ -1,7 +1,7 @@
 document.getElementById("searchInput").addEventListener("input", async function () {
   const searchInput = this.value.trim().toLowerCase();
   const paragraphs = document.querySelectorAll("main p");
-  const linkedFiles = ["../acerca.html", "../index.html", "../Casillas_Keylor_Courtois/index.html", "../Cristiano_Ronaldo/index.html", "../El_numero_7/index.html", "../Federico_Valverde/index.html", "../Jude_Bellingham/index.html", "../Alfredo_Di_Stefano/index.html", "../La_Decima/index.html", "../La_Decimocuarta/index.html", "../La_Fabrica/index.html", "../La_Quinta_del_Buitre/index.html", "../Las_3_Champions_consecutivas/index.html", "../Los_Galacticos/index.html", "../Luis_Figo/index.html", "../Maximos_goleadores/index.html", "../Mexicanos_en_el_Real_Madrid/index.html", "../Raul_Gonzalez_Blanco/index.html", "../Sergio_Ramos/index.html", "../Vinicius_Jr/index.html", "../Zinedine_Zidane/index.html"];
+  const linkedFiles = ["./index.html", "./Alfredo_Di_Stefano/index.html", "./Casillas_Keylor_Courtois/index.html", "./Cristiano_Ronaldo/index.html", "./El_numero_7/index.html", "./Federico_Valverde/index.html", "./Jude_Bellingham/index.html", "./La_BBC/index.html", "./La_Decima/index.html", "./La_Decimocuarta/index.html", "./La_Fabrica/index.html", "./La_Quinta_del_Buitre/index.html", "./Las_3_Champions_consecutivas/index.html", "./Los_Galacticos/index.html", "./Luis_Figo/index.html", "./Maximos_goleadores/index.html", "./Mexicanos_en_el_Real_Madrid/index.html", "./Raul_Gonzalez_Blanco/index.html", "./Sergio_Ramos/index.html", "./Vinicius_Jr/index.html", "./Zinedine_Zidane/index.html"];
 
   // limpia resultados externos
   const externalResults = document.getElementById("externalResults");
