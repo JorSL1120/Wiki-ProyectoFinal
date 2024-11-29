@@ -1,5 +1,10 @@
-# El ultimo blog que acomode fue el de Maximos goleadores
+# Wiki del Real Madrid
 
+La wiki se hizo para la materia de Programación en lenguajes interpretados, en esta materia aprendimos todas las herramientas necesarias para realizarla.
+
+Las herramientas que se utilizaron para su realización fueron: GitHub, GitHub Pages, Markdown, 11ty, HTML, Bootstrap, CSS y JavaScript.
+
+La wiki es nuestro proyecto final, en la cual aplicamos todo lo aprendido.
 
 ## 20 blogs
 
