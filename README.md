@@ -28,3 +28,5 @@ La wiki es nuestro proyecto final, en la cual aplicamos todo lo aprendido.
 1. Federico Valverde --
 1. Jude Bellingham --
 1. Vinicius Jr. --
+
+[Link GitHub Pages](https://jorsl1120.github.io/Wiki-ProyectoFinal/)
